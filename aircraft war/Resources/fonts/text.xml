@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+<key>play</key>
+<string>开始游戏</string>
+<key>score</key>
+<string>当前分:</string>
+<key>best_score</key>
+<string>最高分:</string>
+<key>title</key>
+<string>小小打灰机</string>
+<key>select</key>
+<string>选择这架</string>
+<key>suspend</key>
+<string>暂停</string>
+<key>scoreMenu</key>
+<string>得分纪录</string>
+<key>back_game</key>
+<string>回到游戏</string>
+<key>back_menu</key>
+<string>回到主页</string>
+</dict>
